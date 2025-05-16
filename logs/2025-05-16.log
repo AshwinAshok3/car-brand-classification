@@ -1,0 +1,1106 @@
+[2025-05-16 21:45:18,885] 15 logger - INFO - Authenticating API - ENDPOINT
+[2025-05-16 21:45:18,946] 23 logger - INFO - Initializing Project Name
+[2025-05-16 21:45:19,480] 25 logger - INFO - Project Name created successfully
+[2025-05-16 21:45:19,480] 29 logger - INFO - Database Initiated
+[2025-05-16 21:45:19,560] 44 logger - INFO - Uploading  015-1985-Mercury-Grand-Marquis-LS-for-CC.webp....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:45:19,680] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:45:19,688] 44 logger - INFO - Uploading  03d1c17ff7c57c78cad2f3b093c8ce900f4e8e6f.webp....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:45:19,773] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:45:19,780] 44 logger - INFO - Uploading  0a07a574-ea86-4350-8ca6-8fd61bfc7587.webp....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:45:19,863] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:45:19,871] 44 logger - INFO - Uploading  0be0eacb-d1f2-44c7-bbf5-997109a145da.webp....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:45:19,943] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:45:19,949] 44 logger - INFO - Uploading  11657415-000a-4cbc-9c67-8d7c43b012c1.webp....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:45:20,030] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:45:20,037] 44 logger - INFO - Uploading  1320e2b9-9d9e-4941-8885-bfe3a7784e67.webp....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:45:20,116] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:45:20,137] 44 logger - INFO - Uploading  1969_Mercury_Marquis_sedan.webp....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:45:20,211] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:45:20,218] 44 logger - INFO - Uploading  1970_Mercury_Marquis_convertible.webp....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:45:20,296] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:45:20,306] 44 logger - INFO - Uploading  1980MercuryGrandMarquisClassicCar.webp....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:36,825] 15 logger - INFO - Authenticating API - ENDPOINT
+[2025-05-16 21:52:36,850] 23 logger - INFO - Initializing Project Name
+[2025-05-16 21:52:37,294] 25 logger - INFO - Project Name created successfully
+[2025-05-16 21:52:37,295] 29 logger - INFO - Database Initiated
+[2025-05-16 21:52:37,360] 44 logger - INFO - Uploading  015-1985-Mercury-Grand-Marquis-LS-for-CC.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:37,698] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:37,705] 44 logger - INFO - Uploading  03d1c17ff7c57c78cad2f3b093c8ce900f4e8e6f.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:37,875] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:37,882] 44 logger - INFO - Uploading  0a07a574-ea86-4350-8ca6-8fd61bfc7587.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:38,111] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:38,117] 44 logger - INFO - Uploading  0be0eacb-d1f2-44c7-bbf5-997109a145da.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:38,273] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:38,282] 44 logger - INFO - Uploading  11657415-000a-4cbc-9c67-8d7c43b012c1.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:38,725] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:38,732] 44 logger - INFO - Uploading  1320e2b9-9d9e-4941-8885-bfe3a7784e67.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:39,034] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:39,043] 44 logger - INFO - Uploading  1969_Mercury_Marquis_sedan.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:39,238] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:39,244] 44 logger - INFO - Uploading  1970_Mercury_Marquis_convertible.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:39,412] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:39,420] 44 logger - INFO - Uploading  1980MercuryGrandMarquisClassicCar.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:39,568] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:39,576] 44 logger - INFO - Uploading  1983_Mercury_Grand_Marquis_LS_2-Door.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:39,853] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:39,862] 44 logger - INFO - Uploading  1994_mercury_grand_marquis_ls.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:40,043] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:40,051] 44 logger - INFO - Uploading  25d37040-ea4b-4468-aa72-9705a804a091.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:40,204] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:40,210] 44 logger - INFO - Uploading  2e4467d4-c1ef-4d44-997a-58980c46b07e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:40,396] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:40,404] 44 logger - INFO - Uploading  3157fdd4-a114-4c5a-a8c3-92a9138fc6c9.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:40,523] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:40,530] 44 logger - INFO - Uploading  3482b6ad-6f80-494d-834c-238a8cff4e68.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:40,730] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:40,736] 44 logger - INFO - Uploading  40cfa419-62d1-4db3-8f76-12f25480045e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:40,980] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:40,988] 44 logger - INFO - Uploading  58399dba-550a-4d00-893c-b9ed025e9ff5.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:41,493] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:41,503] 44 logger - INFO - Uploading  6051d59c985b4065c1ba028eb750e3df7b622882.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:41,683] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:41,690] 44 logger - INFO - Uploading  6a88a2e578691658f225b98357f6934e206dfbe0.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:41,854] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:41,862] 44 logger - INFO - Uploading  75568479-d299-4653-8a84-1ca52533ebd5.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:42,044] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:42,050] 44 logger - INFO - Uploading  75_78_Mercury_Grand_Marquis_2door.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:42,221] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:42,231] 44 logger - INFO - Uploading  77ee3eee-4332-4298-a52f-b68f2ed5cf28.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:42,626] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:42,633] 44 logger - INFO - Uploading  80bdd109-41b3-48a7-8b3a-cdeee77ff014.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:43,026] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:43,032] 44 logger - INFO - Uploading  82fc290f-8abe-4e06-abe4-4df3ccec7d45.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:43,182] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:43,189] 44 logger - INFO - Uploading  8bfc9436-fe87-4aae-b8d1-f9dde8d863a8.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:43,400] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:43,407] 44 logger - INFO - Uploading  9353b7cb-ea00-49bb-b554-953c45d4eb2f.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:43,580] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:43,589] 44 logger - INFO - Uploading  960964c7-b40c-49a5-9b3d-2992b59d23e3.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:43,745] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:43,751] 44 logger - INFO - Uploading  98f1fc92-7c3b-4c45-aece-8f282a393af3.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:44,554] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:44,562] 44 logger - INFO - Uploading  a9377099-5f6b-41f9-9fe7-28ceb7387699.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:44,726] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:44,733] 44 logger - INFO - Uploading  ce23220b-fabd-454c-80eb-94311bf34c7e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:44,902] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:44,908] 44 logger - INFO - Uploading  d00dff3f-e59f-438a-a816-eb92520feac1.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:45,084] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:45,091] 44 logger - INFO - Uploading  d766e9f3-6e1d-4e9f-ba4e-d698e0e572b4.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:45,267] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:45,276] 44 logger - INFO - Uploading  e4e82efb-5b59-4377-b0ce-354564052523.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:45,439] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:45,446] 44 logger - INFO - Uploading  grandmarquis03t.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:45,572] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:45,579] 44 logger - INFO - Uploading  mercury-grand-marquis-ultimate-edition-2.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:52:45,769] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:45,855] 44 logger - INFO - Uploading  14159.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:45,984] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:46,001] 44 logger - INFO - Uploading  20220507_12033901.jpeg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:47,020] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:47,034] 44 logger - INFO - Uploading  3931021_156757_2_1745155335144.avif....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:47,113] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:47,120] 44 logger - INFO - Uploading  76822-gypsy-web.avif....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:47,194] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:47,212] 44 logger - INFO - Uploading  maruti-suzuki-omni.jpeg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:47,350] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:47,358] 44 logger - INFO - Uploading  Omni_460_1.webp....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:47,427] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:47,435] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215617.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:47,567] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:47,576] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215708.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:47,703] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:47,720] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215816.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:47,868] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:47,875] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215835.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:48,016] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:48,022] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215916.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:48,223] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:48,230] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215939.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:48,419] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:48,426] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220025.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:48,618] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:48,625] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220045.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:48,906] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:48,912] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220114.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:49,089] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:49,097] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220236.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:49,234] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:49,243] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220318.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:49,462] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:49,469] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220359.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:49,586] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:49,594] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220421.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:49,760] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:49,767] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220849.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:49,913] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:49,920] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220942.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:50,040] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:50,049] 44 logger - INFO - Uploading  Screenshot 2025-05-14 221001.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:50,214] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:50,221] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224452.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:50,357] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:50,364] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224516.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:50,533] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:50,541] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224759.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:50,719] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:50,726] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224822.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:50,879] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:50,885] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224919.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:51,040] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:51,048] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225037.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:51,206] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:51,212] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225115.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:51,391] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:51,398] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225154.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:51,730] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:51,757] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225257.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:51,927] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:51,934] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225313.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:52,094] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:52,100] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225334.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:52,240] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:52,248] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225446.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:52,368] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:52,376] 44 logger - INFO - Uploading  Suzuki_Alto_800_GL_2011.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 21:52:52,754] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:52,825] 44 logger - INFO - Uploading  1060424-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:53,165] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:53,181] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:53,465] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:53,474] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:53,678] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:53,687] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP3.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:54,090] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:54,106] 44 logger - INFO - Uploading  1914_RollsRoyce_SilverGhostLabourdetteSkiff1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:54,354] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:54,362] 44 logger - INFO - Uploading  1914_RollsRoyce_SilverGhostLabourdetteSkiff2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:54,555] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:54,564] 44 logger - INFO - Uploading  1980_RollsRoyce_SilverSpur1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:54,674] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:54,683] 44 logger - INFO - Uploading  1980_RollsRoyce_SilverSpurLimousine1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:54,905] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:54,915] 44 logger - INFO - Uploading  1987_RollsRoyce_CamargueRetractableHardtop1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:55,213] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:55,227] 44 logger - INFO - Uploading  1994_RollsRoyce_SilverSpurIV1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:55,338] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:55,346] 44 logger - INFO - Uploading  1997_RollsRoyce_SilverDawn1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:55,468] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:55,477] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-0-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:55,771] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:55,787] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-1-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:56,074] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:56,082] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-2-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:56,343] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:56,352] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-3-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:56,750] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:56,757] 44 logger - INFO - Uploading  2015_RollsRoyce_Serenity-0-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:57,031] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:57,038] 44 logger - INFO - Uploading  2015_RollsRoyce_Serenity-1-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:57,380] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:57,388] 44 logger - INFO - Uploading  2021-Rolls-Royce-Ghost-003-1536-770x578.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:57,538] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:57,546] 44 logger - INFO - Uploading  2024-Rolls-Royce-Spectre-010-2100-770x578.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:57,699] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:57,707] 44 logger - INFO - Uploading  2025-Rolls-Royce-Cullinan-23-770x527.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:57,858] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:57,872] 44 logger - INFO - Uploading  2025-Rolls-Royce-Cullinan-770x537.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:58,036] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:58,044] 44 logger - INFO - Uploading  2025-Rolls-Royce-Phantom-770x585.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:58,220] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:58,227] 44 logger - INFO - Uploading  file139.jpeg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:58,346] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:58,354] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-11.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:58,619] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:58,627] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-5.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:58,900] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:58,909] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-6.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:59,206] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:59,223] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-8.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:59,476] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:59,483] 44 logger - INFO - Uploading  Rolls-Royce-Black-Badge-Wraith-Black-Arrow-3.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:52:59,822] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:52:59,839] 44 logger - INFO - Uploading  Rolls-Royce-Black-Badge-Wraith-Black-Arrow-4.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:53:00,149] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:53:00,157] 44 logger - INFO - Uploading  Rolls-Royce-Spectre-Lunaflair-2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:53:00,384] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:53:00,392] 44 logger - INFO - Uploading  Screenshot 2025-05-14 213932.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:53:00,540] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:53:00,546] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214029.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:53:00,690] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:53:00,697] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214042.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:53:00,853] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:53:00,859] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214101.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:53:01,050] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:53:01,058] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214155.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 21:53:01,355] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:53:01,463] 57 logger - INFO - Training Images initiation
+[2025-05-16 21:53:01,463] 62 logger - INFO - Training Images. 
+Processing !!!...
+[2025-05-16 21:59:50,623] 15 logger - INFO - Authenticating API - ENDPOINT
+[2025-05-16 21:59:50,667] 23 logger - INFO - Initializing Project Name
+[2025-05-16 21:59:51,057] 25 logger - INFO - Project Name created successfully
+[2025-05-16 21:59:51,057] 29 logger - INFO - Database Initiated
+[2025-05-16 21:59:51,134] 44 logger - INFO - Uploading  015-1985-Mercury-Grand-Marquis-LS-for-CC.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:51,444] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:51,446] 44 logger - INFO - Uploading  03d1c17ff7c57c78cad2f3b093c8ce900f4e8e6f.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:51,621] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:51,621] 44 logger - INFO - Uploading  0a07a574-ea86-4350-8ca6-8fd61bfc7587.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:51,852] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:51,852] 44 logger - INFO - Uploading  0be0eacb-d1f2-44c7-bbf5-997109a145da.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:52,013] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:52,013] 44 logger - INFO - Uploading  11657415-000a-4cbc-9c67-8d7c43b012c1.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:52,405] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:52,405] 44 logger - INFO - Uploading  1320e2b9-9d9e-4941-8885-bfe3a7784e67.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:52,636] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:52,636] 44 logger - INFO - Uploading  1969_Mercury_Marquis_sedan.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:52,796] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:52,797] 44 logger - INFO - Uploading  1970_Mercury_Marquis_convertible.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:52,967] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:52,967] 44 logger - INFO - Uploading  1980MercuryGrandMarquisClassicCar.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:53,113] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:53,114] 44 logger - INFO - Uploading  1983_Mercury_Grand_Marquis_LS_2-Door.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:53,273] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:53,274] 44 logger - INFO - Uploading  1994_mercury_grand_marquis_ls.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:53,427] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:53,428] 44 logger - INFO - Uploading  25d37040-ea4b-4468-aa72-9705a804a091.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:53,824] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:53,824] 44 logger - INFO - Uploading  2e4467d4-c1ef-4d44-997a-58980c46b07e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:54,001] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:54,002] 44 logger - INFO - Uploading  3157fdd4-a114-4c5a-a8c3-92a9138fc6c9.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:54,143] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:54,143] 44 logger - INFO - Uploading  3482b6ad-6f80-494d-834c-238a8cff4e68.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:54,281] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:54,282] 44 logger - INFO - Uploading  40cfa419-62d1-4db3-8f76-12f25480045e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:54,431] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:54,431] 44 logger - INFO - Uploading  58399dba-550a-4d00-893c-b9ed025e9ff5.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:54,847] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:54,847] 44 logger - INFO - Uploading  6051d59c985b4065c1ba028eb750e3df7b622882.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:55,154] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:55,155] 44 logger - INFO - Uploading  6a88a2e578691658f225b98357f6934e206dfbe0.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:55,389] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:55,389] 44 logger - INFO - Uploading  75568479-d299-4653-8a84-1ca52533ebd5.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:55,673] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:55,674] 44 logger - INFO - Uploading  75_78_Mercury_Grand_Marquis_2door.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:55,875] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:55,876] 44 logger - INFO - Uploading  77ee3eee-4332-4298-a52f-b68f2ed5cf28.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:56,383] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:56,383] 44 logger - INFO - Uploading  80bdd109-41b3-48a7-8b3a-cdeee77ff014.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:56,844] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:56,844] 44 logger - INFO - Uploading  82fc290f-8abe-4e06-abe4-4df3ccec7d45.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:57,002] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:57,002] 44 logger - INFO - Uploading  8bfc9436-fe87-4aae-b8d1-f9dde8d863a8.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:57,305] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:57,305] 44 logger - INFO - Uploading  9353b7cb-ea00-49bb-b554-953c45d4eb2f.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:57,477] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:57,477] 44 logger - INFO - Uploading  960964c7-b40c-49a5-9b3d-2992b59d23e3.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:57,634] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:57,634] 44 logger - INFO - Uploading  98f1fc92-7c3b-4c45-aece-8f282a393af3.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:58,536] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:58,536] 44 logger - INFO - Uploading  a9377099-5f6b-41f9-9fe7-28ceb7387699.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:58,693] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:58,694] 44 logger - INFO - Uploading  ce23220b-fabd-454c-80eb-94311bf34c7e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:58,876] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:58,876] 44 logger - INFO - Uploading  d00dff3f-e59f-438a-a816-eb92520feac1.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:59,150] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:59,150] 44 logger - INFO - Uploading  d766e9f3-6e1d-4e9f-ba4e-d698e0e572b4.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:59,337] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:59,338] 44 logger - INFO - Uploading  e4e82efb-5b59-4377-b0ce-354564052523.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 21:59:59,668] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 21:59:59,668] 44 logger - INFO - Uploading  grandmarquis03t.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:00:00,070] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:00,070] 44 logger - INFO - Uploading  mercury-grand-marquis-ultimate-edition-2.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:00:00,247] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:00,305] 44 logger - INFO - Uploading  14159.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:00,438] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:00,439] 44 logger - INFO - Uploading  20220507_12033901.jpeg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:01,299] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:01,312] 44 logger - INFO - Uploading  3931021_156757_2_1745155335144.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:01,439] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:01,439] 44 logger - INFO - Uploading  76822-gypsy-web.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:01,589] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:01,589] 44 logger - INFO - Uploading  maruti-suzuki-omni.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:01,752] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:01,752] 44 logger - INFO - Uploading  Omni_460_1.webp....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:01,853] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:01,854] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215617.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:02,000] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:02,001] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215708.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:02,143] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:02,143] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215816.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:02,310] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:02,310] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215835.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:02,448] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:02,449] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215916.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:02,594] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:02,595] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215939.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:02,756] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:02,756] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220025.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:02,919] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:02,919] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220045.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:03,080] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:03,080] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220114.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:03,220] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:03,221] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220236.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:03,381] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:03,382] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220318.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:03,556] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:03,557] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220359.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:03,697] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:03,697] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220421.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:03,825] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:03,825] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220849.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:03,951] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:03,951] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220942.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:04,103] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:04,103] 44 logger - INFO - Uploading  Screenshot 2025-05-14 221001.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:04,255] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:04,255] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224452.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:04,391] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:04,392] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224516.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:04,560] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:04,561] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224759.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:04,725] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:04,726] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224822.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:04,886] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:04,887] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224919.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:05,051] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:05,051] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225037.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:05,189] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:05,190] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225115.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:05,368] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:05,368] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225154.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:05,600] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:05,601] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225257.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:05,792] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:05,792] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225313.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:05,943] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:05,943] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225334.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:06,083] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:06,084] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225446.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:06,202] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:06,203] 44 logger - INFO - Uploading  Suzuki_Alto_800_GL_2011.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:00:06,643] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:06,712] 44 logger - INFO - Uploading  1060424-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:07,018] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:07,018] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:07,188] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:07,188] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:07,362] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:07,364] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP3.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:07,648] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:07,648] 44 logger - INFO - Uploading  1914_RollsRoyce_SilverGhostLabourdetteSkiff1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:07,818] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:07,818] 44 logger - INFO - Uploading  1914_RollsRoyce_SilverGhostLabourdetteSkiff2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:07,993] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:07,994] 44 logger - INFO - Uploading  1980_RollsRoyce_SilverSpur1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:08,120] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:08,121] 44 logger - INFO - Uploading  1980_RollsRoyce_SilverSpurLimousine1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:08,299] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:08,299] 44 logger - INFO - Uploading  1987_RollsRoyce_CamargueRetractableHardtop1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:08,472] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:08,473] 44 logger - INFO - Uploading  1994_RollsRoyce_SilverSpurIV1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:08,611] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:08,612] 44 logger - INFO - Uploading  1997_RollsRoyce_SilverDawn1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:08,741] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:08,742] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-0-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:09,083] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:09,084] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-1-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:09,389] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:09,390] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-2-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:09,695] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:09,696] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-3-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:10,023] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:10,024] 44 logger - INFO - Uploading  2015_RollsRoyce_Serenity-0-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:10,310] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:10,311] 44 logger - INFO - Uploading  2015_RollsRoyce_Serenity-1-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:10,617] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:10,618] 44 logger - INFO - Uploading  2021-Rolls-Royce-Ghost-003-1536-770x578.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:10,777] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:10,778] 44 logger - INFO - Uploading  2024-Rolls-Royce-Spectre-010-2100-770x578.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:10,923] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:10,924] 44 logger - INFO - Uploading  2025-Rolls-Royce-Cullinan-23-770x527.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:11,082] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:11,082] 44 logger - INFO - Uploading  2025-Rolls-Royce-Cullinan-770x537.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:11,335] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:11,335] 44 logger - INFO - Uploading  2025-Rolls-Royce-Phantom-770x585.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:11,475] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:11,476] 44 logger - INFO - Uploading  file139.jpeg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:11,592] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:11,593] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-11.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:11,904] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:11,904] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-5.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:12,257] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:12,258] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-6.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:12,497] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:12,497] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-8.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:12,871] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:12,871] 44 logger - INFO - Uploading  Rolls-Royce-Black-Badge-Wraith-Black-Arrow-3.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:13,139] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:13,140] 44 logger - INFO - Uploading  Rolls-Royce-Black-Badge-Wraith-Black-Arrow-4.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:13,484] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:13,485] 44 logger - INFO - Uploading  Rolls-Royce-Spectre-Lunaflair-2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:13,791] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:13,791] 44 logger - INFO - Uploading  Screenshot 2025-05-14 213932.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:13,940] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:13,940] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214029.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:14,080] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:14,080] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214042.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:14,238] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:14,239] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214101.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:14,372] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:14,373] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214155.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:00:14,531] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:00:14,622] 57 logger - INFO - Training Images initiation
+[2025-05-16 22:00:14,622] 62 logger - INFO - Training Images. 
+Processing !!!...
+[2025-05-16 22:00:59,507] 15 logger - INFO - Authenticating API - ENDPOINT
+[2025-05-16 22:00:59,544] 23 logger - INFO - Initializing Project Name
+[2025-05-16 22:01:00,613] 25 logger - INFO - Project Name created successfully
+[2025-05-16 22:01:00,613] 29 logger - INFO - Database Initiated
+[2025-05-16 22:01:00,680] 44 logger - INFO - Uploading  015-1985-Mercury-Grand-Marquis-LS-for-CC.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:01,000] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:01,001] 44 logger - INFO - Uploading  03d1c17ff7c57c78cad2f3b093c8ce900f4e8e6f.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:01,139] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:01,140] 44 logger - INFO - Uploading  0a07a574-ea86-4350-8ca6-8fd61bfc7587.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:01,369] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:01,370] 44 logger - INFO - Uploading  0be0eacb-d1f2-44c7-bbf5-997109a145da.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:01,547] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:01,548] 44 logger - INFO - Uploading  11657415-000a-4cbc-9c67-8d7c43b012c1.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:01,921] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:01,921] 44 logger - INFO - Uploading  1320e2b9-9d9e-4941-8885-bfe3a7784e67.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:02,122] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:02,122] 44 logger - INFO - Uploading  1969_Mercury_Marquis_sedan.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:02,271] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:02,271] 44 logger - INFO - Uploading  1970_Mercury_Marquis_convertible.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:02,425] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:02,426] 44 logger - INFO - Uploading  1980MercuryGrandMarquisClassicCar.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:02,588] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:02,588] 44 logger - INFO - Uploading  1983_Mercury_Grand_Marquis_LS_2-Door.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:02,740] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:02,740] 44 logger - INFO - Uploading  1994_mercury_grand_marquis_ls.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:02,877] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:02,878] 44 logger - INFO - Uploading  25d37040-ea4b-4468-aa72-9705a804a091.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:03,043] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:03,043] 44 logger - INFO - Uploading  2e4467d4-c1ef-4d44-997a-58980c46b07e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:03,186] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:03,187] 44 logger - INFO - Uploading  3157fdd4-a114-4c5a-a8c3-92a9138fc6c9.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:03,328] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:03,328] 44 logger - INFO - Uploading  3482b6ad-6f80-494d-834c-238a8cff4e68.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:03,454] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:03,459] 44 logger - INFO - Uploading  40cfa419-62d1-4db3-8f76-12f25480045e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:03,599] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:03,599] 44 logger - INFO - Uploading  58399dba-550a-4d00-893c-b9ed025e9ff5.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:03,948] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:03,948] 44 logger - INFO - Uploading  6051d59c985b4065c1ba028eb750e3df7b622882.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:04,081] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:04,082] 44 logger - INFO - Uploading  6a88a2e578691658f225b98357f6934e206dfbe0.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:04,220] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:04,220] 44 logger - INFO - Uploading  75568479-d299-4653-8a84-1ca52533ebd5.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:04,378] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:04,378] 44 logger - INFO - Uploading  75_78_Mercury_Grand_Marquis_2door.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:04,537] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:04,537] 44 logger - INFO - Uploading  77ee3eee-4332-4298-a52f-b68f2ed5cf28.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:04,907] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:04,907] 44 logger - INFO - Uploading  80bdd109-41b3-48a7-8b3a-cdeee77ff014.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:05,244] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:05,244] 44 logger - INFO - Uploading  82fc290f-8abe-4e06-abe4-4df3ccec7d45.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:05,378] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:05,379] 44 logger - INFO - Uploading  8bfc9436-fe87-4aae-b8d1-f9dde8d863a8.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:05,579] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:05,579] 44 logger - INFO - Uploading  9353b7cb-ea00-49bb-b554-953c45d4eb2f.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:05,749] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:05,749] 44 logger - INFO - Uploading  960964c7-b40c-49a5-9b3d-2992b59d23e3.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:05,895] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:05,895] 44 logger - INFO - Uploading  98f1fc92-7c3b-4c45-aece-8f282a393af3.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:06,629] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:06,629] 44 logger - INFO - Uploading  a9377099-5f6b-41f9-9fe7-28ceb7387699.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:06,791] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:06,791] 44 logger - INFO - Uploading  ce23220b-fabd-454c-80eb-94311bf34c7e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:06,949] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:06,950] 44 logger - INFO - Uploading  d00dff3f-e59f-438a-a816-eb92520feac1.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:07,103] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:07,103] 44 logger - INFO - Uploading  d766e9f3-6e1d-4e9f-ba4e-d698e0e572b4.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:07,275] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:07,275] 44 logger - INFO - Uploading  e4e82efb-5b59-4377-b0ce-354564052523.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:07,414] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:07,414] 44 logger - INFO - Uploading  grandmarquis03t.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:07,544] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:07,548] 44 logger - INFO - Uploading  mercury-grand-marquis-ultimate-edition-2.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:01:07,681] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:07,749] 44 logger - INFO - Uploading  14159.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:07,892] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:07,893] 44 logger - INFO - Uploading  20220507_12033901.jpeg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:08,720] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:08,721] 44 logger - INFO - Uploading  3931021_156757_2_1745155335144.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:08,844] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:08,844] 44 logger - INFO - Uploading  76822-gypsy-web.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:08,988] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:08,989] 44 logger - INFO - Uploading  maruti-suzuki-omni.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:09,115] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:09,115] 44 logger - INFO - Uploading  Omni_460_1.webp....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:09,192] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:09,193] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215617.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:09,326] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:09,326] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215708.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:09,459] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:09,459] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215816.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:09,597] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:09,598] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215835.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:09,733] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:09,733] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215916.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:09,882] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:09,882] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215939.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:10,021] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:10,021] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220025.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:10,170] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:10,170] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220045.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:10,302] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:10,303] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220114.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:10,447] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:10,447] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220236.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:10,625] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:10,625] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220318.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:10,769] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:10,769] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220359.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:10,912] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:10,913] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220421.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:11,030] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:11,030] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220849.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:11,161] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:11,161] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220942.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:11,298] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:11,298] 44 logger - INFO - Uploading  Screenshot 2025-05-14 221001.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:11,434] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:11,434] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224452.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:11,597] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:11,598] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224516.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:11,796] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:11,797] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224759.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:11,946] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:11,946] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224822.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:12,096] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:12,096] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224919.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:12,241] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:12,242] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225037.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:12,383] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:12,384] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225115.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:12,549] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:12,550] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225154.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:12,773] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:12,774] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225257.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:12,938] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:12,938] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225313.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:13,069] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:13,069] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225334.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:13,209] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:13,209] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225446.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:13,315] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:13,315] 44 logger - INFO - Uploading  Suzuki_Alto_800_GL_2011.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:01:13,694] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:13,768] 44 logger - INFO - Uploading  1060424-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:14,105] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:14,105] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:14,309] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:14,309] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:14,490] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:14,491] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP3.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:14,770] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:14,770] 44 logger - INFO - Uploading  1914_RollsRoyce_SilverGhostLabourdetteSkiff1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:15,025] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:15,025] 44 logger - INFO - Uploading  1914_RollsRoyce_SilverGhostLabourdetteSkiff2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:15,182] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:15,182] 44 logger - INFO - Uploading  1980_RollsRoyce_SilverSpur1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:15,305] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:15,306] 44 logger - INFO - Uploading  1980_RollsRoyce_SilverSpurLimousine1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:15,457] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:15,457] 44 logger - INFO - Uploading  1987_RollsRoyce_CamargueRetractableHardtop1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:15,645] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:15,646] 44 logger - INFO - Uploading  1994_RollsRoyce_SilverSpurIV1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:15,780] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:15,780] 44 logger - INFO - Uploading  1997_RollsRoyce_SilverDawn1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:15,924] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:15,925] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-0-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:16,254] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:16,254] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-1-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:16,524] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:16,524] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-2-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:16,816] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:16,816] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-3-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:17,109] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:17,109] 44 logger - INFO - Uploading  2015_RollsRoyce_Serenity-0-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:17,337] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:17,337] 44 logger - INFO - Uploading  2015_RollsRoyce_Serenity-1-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:17,585] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:17,586] 44 logger - INFO - Uploading  2021-Rolls-Royce-Ghost-003-1536-770x578.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:17,712] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:17,712] 44 logger - INFO - Uploading  2024-Rolls-Royce-Spectre-010-2100-770x578.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:17,881] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:17,881] 44 logger - INFO - Uploading  2025-Rolls-Royce-Cullinan-23-770x527.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:18,024] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:18,025] 44 logger - INFO - Uploading  2025-Rolls-Royce-Cullinan-770x537.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:18,167] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:18,167] 44 logger - INFO - Uploading  2025-Rolls-Royce-Phantom-770x585.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:18,307] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:18,308] 44 logger - INFO - Uploading  file139.jpeg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:18,417] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:18,417] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-11.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:18,647] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:18,648] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-5.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:18,920] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:18,920] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-6.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:19,224] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:19,224] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-8.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:19,458] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:19,459] 44 logger - INFO - Uploading  Rolls-Royce-Black-Badge-Wraith-Black-Arrow-3.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:19,688] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:19,689] 44 logger - INFO - Uploading  Rolls-Royce-Black-Badge-Wraith-Black-Arrow-4.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:20,043] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:20,043] 44 logger - INFO - Uploading  Rolls-Royce-Spectre-Lunaflair-2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:20,350] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:20,350] 44 logger - INFO - Uploading  Screenshot 2025-05-14 213932.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:20,484] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:20,485] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214029.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:20,633] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:20,634] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214042.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:20,781] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:20,781] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214101.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:20,950] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:20,951] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214155.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:01:21,107] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:01:21,186] 57 logger - INFO - Training Images initiation
+[2025-05-16 22:01:21,190] 62 logger - INFO - Training Images. 
+Processing !!!...
+[2025-05-16 22:05:57,391] 15 logger - INFO - Authenticating API - ENDPOINT
+[2025-05-16 22:05:57,417] 23 logger - INFO - Initializing Project Name
+[2025-05-16 22:05:57,829] 25 logger - INFO - Project Name created successfully
+[2025-05-16 22:05:57,829] 29 logger - INFO - Database Initiated
+[2025-05-16 22:05:57,905] 44 logger - INFO - Uploading  015-1985-Mercury-Grand-Marquis-LS-for-CC.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:05:58,268] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:05:58,268] 44 logger - INFO - Uploading  03d1c17ff7c57c78cad2f3b093c8ce900f4e8e6f.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:05:58,431] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:05:58,432] 44 logger - INFO - Uploading  0a07a574-ea86-4350-8ca6-8fd61bfc7587.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:05:58,654] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:05:58,654] 44 logger - INFO - Uploading  0be0eacb-d1f2-44c7-bbf5-997109a145da.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:05:58,835] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:05:58,836] 44 logger - INFO - Uploading  11657415-000a-4cbc-9c67-8d7c43b012c1.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:05:59,378] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:05:59,379] 44 logger - INFO - Uploading  1320e2b9-9d9e-4941-8885-bfe3a7784e67.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:00,430] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:00,430] 44 logger - INFO - Uploading  1969_Mercury_Marquis_sedan.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:00,636] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:00,637] 44 logger - INFO - Uploading  1970_Mercury_Marquis_convertible.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:00,840] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:00,840] 44 logger - INFO - Uploading  1980MercuryGrandMarquisClassicCar.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:01,063] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:01,064] 44 logger - INFO - Uploading  1983_Mercury_Grand_Marquis_LS_2-Door.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:01,501] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:01,501] 44 logger - INFO - Uploading  1994_mercury_grand_marquis_ls.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:02,091] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:02,091] 44 logger - INFO - Uploading  25d37040-ea4b-4468-aa72-9705a804a091.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:03,707] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:03,708] 44 logger - INFO - Uploading  2e4467d4-c1ef-4d44-997a-58980c46b07e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:03,913] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:03,913] 44 logger - INFO - Uploading  3157fdd4-a114-4c5a-a8c3-92a9138fc6c9.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:04,117] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:04,117] 44 logger - INFO - Uploading  3482b6ad-6f80-494d-834c-238a8cff4e68.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:04,323] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:04,323] 44 logger - INFO - Uploading  40cfa419-62d1-4db3-8f76-12f25480045e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:04,527] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:04,528] 44 logger - INFO - Uploading  58399dba-550a-4d00-893c-b9ed025e9ff5.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:04,907] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:04,907] 44 logger - INFO - Uploading  6051d59c985b4065c1ba028eb750e3df7b622882.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:05,080] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:05,080] 44 logger - INFO - Uploading  6a88a2e578691658f225b98357f6934e206dfbe0.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:05,222] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:05,223] 44 logger - INFO - Uploading  75568479-d299-4653-8a84-1ca52533ebd5.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:05,370] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:05,370] 44 logger - INFO - Uploading  75_78_Mercury_Grand_Marquis_2door.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:05,526] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:05,526] 44 logger - INFO - Uploading  77ee3eee-4332-4298-a52f-b68f2ed5cf28.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:05,870] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:05,871] 44 logger - INFO - Uploading  80bdd109-41b3-48a7-8b3a-cdeee77ff014.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:06,228] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:06,229] 44 logger - INFO - Uploading  82fc290f-8abe-4e06-abe4-4df3ccec7d45.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:06,363] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:06,363] 44 logger - INFO - Uploading  8bfc9436-fe87-4aae-b8d1-f9dde8d863a8.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:06,662] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:06,662] 44 logger - INFO - Uploading  9353b7cb-ea00-49bb-b554-953c45d4eb2f.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:06,833] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:06,833] 44 logger - INFO - Uploading  960964c7-b40c-49a5-9b3d-2992b59d23e3.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:06,968] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:06,968] 44 logger - INFO - Uploading  98f1fc92-7c3b-4c45-aece-8f282a393af3.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:07,724] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:07,725] 44 logger - INFO - Uploading  a9377099-5f6b-41f9-9fe7-28ceb7387699.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:07,869] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:07,869] 44 logger - INFO - Uploading  ce23220b-fabd-454c-80eb-94311bf34c7e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:08,013] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:08,013] 44 logger - INFO - Uploading  d00dff3f-e59f-438a-a816-eb92520feac1.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:08,196] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:08,196] 44 logger - INFO - Uploading  d766e9f3-6e1d-4e9f-ba4e-d698e0e572b4.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:08,345] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:08,345] 44 logger - INFO - Uploading  e4e82efb-5b59-4377-b0ce-354564052523.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:08,524] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:08,524] 44 logger - INFO - Uploading  grandmarquis03t.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:08,654] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:08,654] 44 logger - INFO - Uploading  mercury-grand-marquis-ultimate-edition-2.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:06:08,801] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:08,869] 44 logger - INFO - Uploading  14159.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:08,995] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:08,995] 44 logger - INFO - Uploading  3931021_156757_2_1745155335144.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:09,154] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:09,154] 44 logger - INFO - Uploading  76822-gypsy-web.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:09,295] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:09,295] 44 logger - INFO - Uploading  maruti-suzuki-omni.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:09,416] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:09,425] 44 logger - INFO - Uploading  Omni_460_1.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:09,585] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:09,586] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215617.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:09,707] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:09,708] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215708.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:09,873] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:09,873] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215816.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:10,020] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:10,020] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215835.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:10,246] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:10,248] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215916.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:10,451] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:10,452] 44 logger - INFO - Uploading  Screenshot 2025-05-14 215939.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:10,578] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:10,578] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220025.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:10,740] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:10,741] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220045.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:10,923] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:10,923] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220114.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:11,115] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:11,115] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220236.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:11,288] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:11,288] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220318.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:11,424] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:11,425] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220359.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:11,589] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:11,590] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220421.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:11,708] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:11,709] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220849.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:11,832] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:11,832] 44 logger - INFO - Uploading  Screenshot 2025-05-14 220942.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:11,978] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:11,978] 44 logger - INFO - Uploading  Screenshot 2025-05-14 221001.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:12,119] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:12,119] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224452.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:12,276] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:12,276] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224516.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:12,441] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:12,441] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224759.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:12,594] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:12,594] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224822.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:12,744] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:12,744] 44 logger - INFO - Uploading  Screenshot 2025-05-14 224919.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:12,873] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:12,873] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225037.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:13,013] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:13,014] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225115.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:13,176] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:13,176] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225154.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:13,420] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:13,421] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225257.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:13,581] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:13,582] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225313.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:13,715] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:13,716] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225334.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:13,931] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:13,932] 44 logger - INFO - Uploading  Screenshot 2025-05-14 225446.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:14,053] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:14,054] 44 logger - INFO - Uploading  Suzuki_Alto_800_GL_2011.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:14,345] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:14,352] 44 logger - INFO - Uploading  Untitled design.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:06:14,833] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:14,904] 44 logger - INFO - Uploading  1060424-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:15,183] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:15,183] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:15,399] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:15,399] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:15,598] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:15,598] 44 logger - INFO - Uploading  1904_RollsRoyce_10HP3.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:15,877] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:15,878] 44 logger - INFO - Uploading  1914_RollsRoyce_SilverGhostLabourdetteSkiff1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:16,041] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:16,042] 44 logger - INFO - Uploading  1914_RollsRoyce_SilverGhostLabourdetteSkiff2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:16,216] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:16,216] 44 logger - INFO - Uploading  1980_RollsRoyce_SilverSpur1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:16,349] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:16,349] 44 logger - INFO - Uploading  1980_RollsRoyce_SilverSpurLimousine1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:16,510] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:16,510] 44 logger - INFO - Uploading  1987_RollsRoyce_CamargueRetractableHardtop1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:16,696] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:16,696] 44 logger - INFO - Uploading  1994_RollsRoyce_SilverSpurIV1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:16,820] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:16,820] 44 logger - INFO - Uploading  1997_RollsRoyce_SilverDawn1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:16,950] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:16,951] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-0-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:17,194] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:17,194] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-1-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:17,421] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:17,422] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-2-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:17,684] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:17,684] 44 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-3-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:17,930] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:17,930] 44 logger - INFO - Uploading  2015_RollsRoyce_Serenity-0-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:18,163] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:18,163] 44 logger - INFO - Uploading  2015_RollsRoyce_Serenity-1-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:18,438] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:18,438] 44 logger - INFO - Uploading  2021-Rolls-Royce-Ghost-003-1536-770x578.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:18,575] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:18,575] 44 logger - INFO - Uploading  2024-Rolls-Royce-Spectre-010-2100-770x578.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:18,720] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:18,720] 44 logger - INFO - Uploading  2025-Rolls-Royce-Cullinan-23-770x527.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:18,873] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:18,873] 44 logger - INFO - Uploading  2025-Rolls-Royce-Cullinan-770x537.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:19,021] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:19,021] 44 logger - INFO - Uploading  2025-Rolls-Royce-Phantom-770x585.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:19,175] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:19,175] 44 logger - INFO - Uploading  file139.jpeg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:19,299] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:19,300] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-11.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:19,576] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:19,577] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-5.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:19,874] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:19,875] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-6.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:20,178] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:20,178] 44 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-8.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:20,400] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:20,400] 44 logger - INFO - Uploading  Rolls-Royce-Black-Badge-Wraith-Black-Arrow-3.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:20,634] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:20,635] 44 logger - INFO - Uploading  Rolls-Royce-Black-Badge-Wraith-Black-Arrow-4.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:20,999] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:21,000] 44 logger - INFO - Uploading  Rolls-Royce-Spectre-Lunaflair-2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:21,215] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:21,215] 44 logger - INFO - Uploading  Screenshot 2025-05-14 213932.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:21,358] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:21,358] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214029.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:21,537] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:21,537] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214042.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:21,821] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:21,821] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214101.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:21,998] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:21,999] 44 logger - INFO - Uploading  Screenshot 2025-05-14 214155.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:06:22,140] 46 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:06:22,228] 57 logger - INFO - Training Images initiation
+[2025-05-16 22:06:22,228] 62 logger - INFO - Training Images. 
+Processing !!!...
+[2025-05-16 22:13:13,458] 16 logger - INFO - Authenticating API - ENDPOINT
+[2025-05-16 22:13:13,505] 24 logger - INFO - Initializing Project Name
+[2025-05-16 22:13:13,849] 26 logger - INFO - Project Name created successfully
+[2025-05-16 22:13:13,849] 30 logger - INFO - Database Initiated
+[2025-05-16 22:13:13,941] 45 logger - INFO - Uploading  015-1985-Mercury-Grand-Marquis-LS-for-CC.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:14,367] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:14,368] 45 logger - INFO - Uploading  03d1c17ff7c57c78cad2f3b093c8ce900f4e8e6f.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:14,524] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:14,524] 45 logger - INFO - Uploading  0a07a574-ea86-4350-8ca6-8fd61bfc7587.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:14,901] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:14,901] 45 logger - INFO - Uploading  0be0eacb-d1f2-44c7-bbf5-997109a145da.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:15,063] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:15,064] 45 logger - INFO - Uploading  11657415-000a-4cbc-9c67-8d7c43b012c1.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:15,513] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:15,513] 45 logger - INFO - Uploading  1320e2b9-9d9e-4941-8885-bfe3a7784e67.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:15,709] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:15,710] 45 logger - INFO - Uploading  1969_Mercury_Marquis_sedan.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:16,027] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:16,027] 45 logger - INFO - Uploading  1970_Mercury_Marquis_convertible.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:16,200] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:16,200] 45 logger - INFO - Uploading  1980MercuryGrandMarquisClassicCar.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:16,347] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:16,347] 45 logger - INFO - Uploading  1983_Mercury_Grand_Marquis_LS_2-Door.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:16,567] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:16,568] 45 logger - INFO - Uploading  1994_mercury_grand_marquis_ls.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:16,720] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:16,721] 45 logger - INFO - Uploading  25d37040-ea4b-4468-aa72-9705a804a091.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:16,909] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:16,909] 45 logger - INFO - Uploading  2e4467d4-c1ef-4d44-997a-58980c46b07e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:17,094] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:17,094] 45 logger - INFO - Uploading  3157fdd4-a114-4c5a-a8c3-92a9138fc6c9.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:17,235] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:17,235] 45 logger - INFO - Uploading  3482b6ad-6f80-494d-834c-238a8cff4e68.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:17,400] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:17,400] 45 logger - INFO - Uploading  40cfa419-62d1-4db3-8f76-12f25480045e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:17,579] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:17,580] 45 logger - INFO - Uploading  58399dba-550a-4d00-893c-b9ed025e9ff5.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:17,976] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:17,976] 45 logger - INFO - Uploading  6051d59c985b4065c1ba028eb750e3df7b622882.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:18,267] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:18,267] 45 logger - INFO - Uploading  6a88a2e578691658f225b98357f6934e206dfbe0.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:18,442] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:18,443] 45 logger - INFO - Uploading  75568479-d299-4653-8a84-1ca52533ebd5.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:18,643] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:18,644] 45 logger - INFO - Uploading  75_78_Mercury_Grand_Marquis_2door.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:18,825] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:18,826] 45 logger - INFO - Uploading  77ee3eee-4332-4298-a52f-b68f2ed5cf28.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:19,302] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:19,303] 45 logger - INFO - Uploading  80bdd109-41b3-48a7-8b3a-cdeee77ff014.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:19,733] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:19,733] 45 logger - INFO - Uploading  82fc290f-8abe-4e06-abe4-4df3ccec7d45.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:19,884] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:19,885] 45 logger - INFO - Uploading  8bfc9436-fe87-4aae-b8d1-f9dde8d863a8.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:20,225] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:20,225] 45 logger - INFO - Uploading  9353b7cb-ea00-49bb-b554-953c45d4eb2f.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:20,532] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:20,532] 45 logger - INFO - Uploading  960964c7-b40c-49a5-9b3d-2992b59d23e3.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:20,708] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:20,708] 45 logger - INFO - Uploading  98f1fc92-7c3b-4c45-aece-8f282a393af3.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:21,377] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:21,378] 45 logger - INFO - Uploading  a9377099-5f6b-41f9-9fe7-28ceb7387699.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:21,620] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:21,620] 45 logger - INFO - Uploading  ce23220b-fabd-454c-80eb-94311bf34c7e.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:21,836] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:21,836] 45 logger - INFO - Uploading  d00dff3f-e59f-438a-a816-eb92520feac1.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:22,020] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:22,020] 45 logger - INFO - Uploading  d766e9f3-6e1d-4e9f-ba4e-d698e0e572b4.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:22,204] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:22,205] 45 logger - INFO - Uploading  e4e82efb-5b59-4377-b0ce-354564052523.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:22,382] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:22,382] 45 logger - INFO - Uploading  grandmarquis03t.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:22,520] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:22,520] 45 logger - INFO - Uploading  mercury-grand-marquis-ultimate-edition-2.jpg....given tag grand marquis....path train set\grand marquis
+[2025-05-16 22:13:22,688] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:22,812] 45 logger - INFO - Uploading  14159.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:23,011] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:23,012] 45 logger - INFO - Uploading  3931021_156757_2_1745155335144.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:23,159] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:23,159] 45 logger - INFO - Uploading  76822-gypsy-web.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:23,319] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:23,319] 45 logger - INFO - Uploading  maruti-suzuki-omni.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:23,489] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:23,489] 45 logger - INFO - Uploading  Omni_460_1.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:23,809] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:23,809] 45 logger - INFO - Uploading  Screenshot 2025-05-14 215617.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:23,947] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:23,948] 45 logger - INFO - Uploading  Screenshot 2025-05-14 215708.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:24,114] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:24,114] 45 logger - INFO - Uploading  Screenshot 2025-05-14 215816.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:24,268] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:24,268] 45 logger - INFO - Uploading  Screenshot 2025-05-14 215835.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:24,425] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:24,425] 45 logger - INFO - Uploading  Screenshot 2025-05-14 215916.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:24,576] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:24,577] 45 logger - INFO - Uploading  Screenshot 2025-05-14 215939.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:24,717] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:24,718] 45 logger - INFO - Uploading  Screenshot 2025-05-14 220025.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:24,877] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:24,877] 45 logger - INFO - Uploading  Screenshot 2025-05-14 220045.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:25,036] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:25,036] 45 logger - INFO - Uploading  Screenshot 2025-05-14 220114.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:25,196] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:25,196] 45 logger - INFO - Uploading  Screenshot 2025-05-14 220236.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:25,357] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:25,357] 45 logger - INFO - Uploading  Screenshot 2025-05-14 220318.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:25,514] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:25,514] 45 logger - INFO - Uploading  Screenshot 2025-05-14 220359.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:25,659] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:25,659] 45 logger - INFO - Uploading  Screenshot 2025-05-14 220421.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:25,781] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:25,781] 45 logger - INFO - Uploading  Screenshot 2025-05-14 220849.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:26,163] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:26,163] 45 logger - INFO - Uploading  Screenshot 2025-05-14 220942.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:26,302] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:26,302] 45 logger - INFO - Uploading  Screenshot 2025-05-14 221001.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:26,453] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:26,453] 45 logger - INFO - Uploading  Screenshot 2025-05-14 224452.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:26,617] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:26,617] 45 logger - INFO - Uploading  Screenshot 2025-05-14 224516.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:26,789] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:26,790] 45 logger - INFO - Uploading  Screenshot 2025-05-14 224759.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:27,088] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:27,088] 45 logger - INFO - Uploading  Screenshot 2025-05-14 224822.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:27,391] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:27,391] 45 logger - INFO - Uploading  Screenshot 2025-05-14 224919.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:27,572] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:27,573] 45 logger - INFO - Uploading  Screenshot 2025-05-14 225037.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:27,723] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:27,724] 45 logger - INFO - Uploading  Screenshot 2025-05-14 225115.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:27,881] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:27,882] 45 logger - INFO - Uploading  Screenshot 2025-05-14 225154.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:28,210] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:28,211] 45 logger - INFO - Uploading  Screenshot 2025-05-14 225257.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:28,377] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:28,378] 45 logger - INFO - Uploading  Screenshot 2025-05-14 225313.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:28,527] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:28,527] 45 logger - INFO - Uploading  Screenshot 2025-05-14 225334.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:28,675] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:28,676] 45 logger - INFO - Uploading  Screenshot 2025-05-14 225446.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:28,792] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:28,792] 45 logger - INFO - Uploading  Suzuki_Alto_800_GL_2011.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:29,132] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:29,132] 45 logger - INFO - Uploading  Untitled design.jpg....given tag maruti suzuki....path train set\maruti suzuki
+[2025-05-16 22:13:29,587] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:29,703] 45 logger - INFO - Uploading  1060424-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:29,990] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:29,991] 45 logger - INFO - Uploading  1904_RollsRoyce_10HP1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:30,260] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:30,260] 45 logger - INFO - Uploading  1904_RollsRoyce_10HP2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:30,564] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:30,565] 45 logger - INFO - Uploading  1904_RollsRoyce_10HP3.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:30,974] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:30,976] 45 logger - INFO - Uploading  1914_RollsRoyce_SilverGhostLabourdetteSkiff1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:31,180] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:31,181] 45 logger - INFO - Uploading  1914_RollsRoyce_SilverGhostLabourdetteSkiff2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:31,417] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:31,417] 45 logger - INFO - Uploading  1980_RollsRoyce_SilverSpur1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:31,574] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:31,575] 45 logger - INFO - Uploading  1980_RollsRoyce_SilverSpurLimousine1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:31,819] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:31,820] 45 logger - INFO - Uploading  1987_RollsRoyce_CamargueRetractableHardtop1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:32,071] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:32,072] 45 logger - INFO - Uploading  1994_RollsRoyce_SilverSpurIV1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:32,205] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:32,205] 45 logger - INFO - Uploading  1997_RollsRoyce_SilverDawn1.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:32,331] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:32,331] 45 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-0-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:32,614] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:32,616] 45 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-1-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:32,864] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:32,865] 45 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-2-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:33,145] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:33,145] 45 logger - INFO - Uploading  2014_RollsRoyce_GhostSeriesII-3-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:33,547] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:33,550] 45 logger - INFO - Uploading  2015_RollsRoyce_Serenity-0-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:33,842] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:33,847] 45 logger - INFO - Uploading  2015_RollsRoyce_Serenity-1-1536.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:34,151] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:34,152] 45 logger - INFO - Uploading  2021-Rolls-Royce-Ghost-003-1536-770x578.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:34,306] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:34,307] 45 logger - INFO - Uploading  2024-Rolls-Royce-Spectre-010-2100-770x578.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:34,473] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:34,473] 45 logger - INFO - Uploading  2025-Rolls-Royce-Cullinan-23-770x527.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:34,764] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:34,764] 45 logger - INFO - Uploading  2025-Rolls-Royce-Cullinan-770x537.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:34,928] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:34,928] 45 logger - INFO - Uploading  2025-Rolls-Royce-Phantom-770x585.png....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:35,277] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:35,278] 45 logger - INFO - Uploading  file139.jpeg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:35,400] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:35,400] 45 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-11.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:35,686] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:35,686] 45 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-5.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:35,993] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:35,993] 45 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-6.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:36,246] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:36,247] 45 logger - INFO - Uploading  Pret-A-Porter-collection-by-The-House-of-Rolls-Royce-8.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:36,511] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:36,512] 45 logger - INFO - Uploading  Rolls-Royce-Black-Badge-Wraith-Black-Arrow-3.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:36,812] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:36,813] 45 logger - INFO - Uploading  Rolls-Royce-Black-Badge-Wraith-Black-Arrow-4.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:37,176] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:37,176] 45 logger - INFO - Uploading  Rolls-Royce-Spectre-Lunaflair-2.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:37,529] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:37,529] 45 logger - INFO - Uploading  Screenshot 2025-05-14 213932.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:37,680] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:37,680] 45 logger - INFO - Uploading  Screenshot 2025-05-14 214029.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:37,849] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:37,850] 45 logger - INFO - Uploading  Screenshot 2025-05-14 214042.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:38,044] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:38,044] 45 logger - INFO - Uploading  Screenshot 2025-05-14 214101.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:38,213] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:38,214] 45 logger - INFO - Uploading  Screenshot 2025-05-14 214155.jpg....given tag rolls royce....path train set\rolls royce
+[2025-05-16 22:13:38,554] 47 logger - INFO - Image Upload Successful ({^,^})
+[2025-05-16 22:13:38,641] 57 logger - INFO - Training Images initiation
+[2025-05-16 22:17:11,705] 75 logger - INFO - Training Images. 
+Processing !!!...
