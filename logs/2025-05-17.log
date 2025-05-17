@@ -890,3 +890,44 @@ Processing !!!...
 Processing !!!...
 [2025-05-17 04:45:59,352] 142 logger - INFO - Instantiating the model : car_brand_model_v1
 [2025-05-17 04:46:02,096] 149 logger - INFO - Model published successfully ({-,-})
+[2025-05-17 06:24:58,324] 8 logger - INFO - Imported Libraries
+[2025-05-17 06:24:58,325] 16 logger - INFO - Credentials Saved
+[2025-05-17 06:24:58,325] 21 logger - INFO - Folder path specified for test data
+[2025-05-17 06:24:58,325] 26 logger - INFO - Created an empty folder 'output' !
+[2025-05-17 06:24:58,325] 30 logger - INFO - Authentication for Credentials Successfull  ({^.^}) /
+[2025-05-17 06:24:58,350] 69 logger - INFO - Folder Path Verified
+[2025-05-17 06:24:58,350] 72 logger - INFO - Image File Verified test1.jpg
+[2025-05-17 06:24:58,350] 42 logger - INFO - Reading the Image file 
+[2025-05-17 06:24:58,884] 48 logger - INFO - Prep for the prediction
+[2025-05-17 06:24:58,886] 69 logger - INFO - Folder Path Verified
+[2025-05-17 06:24:58,886] 72 logger - INFO - Image File Verified test2.jpg
+[2025-05-17 06:24:58,886] 42 logger - INFO - Reading the Image file 
+[2025-05-17 06:24:59,139] 48 logger - INFO - Prep for the prediction
+[2025-05-17 06:24:59,140] 69 logger - INFO - Folder Path Verified
+[2025-05-17 06:24:59,141] 72 logger - INFO - Image File Verified test3.jpg
+[2025-05-17 06:24:59,141] 42 logger - INFO - Reading the Image file 
+[2025-05-17 06:24:59,302] 48 logger - INFO - Prep for the prediction
+[2025-05-17 06:24:59,303] 69 logger - INFO - Folder Path Verified
+[2025-05-17 06:24:59,303] 72 logger - INFO - Image File Verified test4.jpg
+[2025-05-17 06:24:59,303] 42 logger - INFO - Reading the Image file 
+[2025-05-17 06:24:59,450] 48 logger - INFO - Prep for the prediction
+[2025-05-17 06:24:59,452] 69 logger - INFO - Folder Path Verified
+[2025-05-17 06:24:59,452] 72 logger - INFO - Image File Verified test5.jpg
+[2025-05-17 06:24:59,452] 42 logger - INFO - Reading the Image file 
+[2025-05-17 06:24:59,562] 48 logger - INFO - Prep for the prediction
+[2025-05-17 06:24:59,571] 69 logger - INFO - Folder Path Verified
+[2025-05-17 06:24:59,572] 72 logger - INFO - Image File Verified test6.jpg
+[2025-05-17 06:24:59,572] 42 logger - INFO - Reading the Image file 
+[2025-05-17 06:24:59,799] 48 logger - INFO - Prep for the prediction
+[2025-05-17 06:24:59,800] 69 logger - INFO - Folder Path Verified
+[2025-05-17 06:24:59,800] 72 logger - INFO - Image File Verified test7.jpg
+[2025-05-17 06:24:59,801] 42 logger - INFO - Reading the Image file 
+[2025-05-17 06:25:00,163] 48 logger - INFO - Prep for the prediction
+[2025-05-17 06:25:00,164] 69 logger - INFO - Folder Path Verified
+[2025-05-17 06:25:00,164] 72 logger - INFO - Image File Verified test8.jpg
+[2025-05-17 06:25:00,164] 42 logger - INFO - Reading the Image file 
+[2025-05-17 06:25:00,369] 48 logger - INFO - Prep for the prediction
+[2025-05-17 06:25:00,370] 69 logger - INFO - Folder Path Verified
+[2025-05-17 06:25:00,370] 72 logger - INFO - Image File Verified test9.jpg
+[2025-05-17 06:25:00,371] 42 logger - INFO - Reading the Image file 
+[2025-05-17 06:25:00,779] 48 logger - INFO - Prep for the prediction

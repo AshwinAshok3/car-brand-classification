@@ -1,45 +1,78 @@
-# Import necessary libraries for prediction
+# importing libraries for custom vision Prediction
 from azure.cognitiveservices.vision.customvision.prediction import CustomVisionPredictionClient
 from msrest.authentication import ApiKeyCredentials
 import os
+import shutil
 from logger import logger
 from exception import CustomException
-
-# Credentials and endpoints - update these with your own values
-prediction_key = "4EEgJnAYXK1YEoul9UwV2ZoKILN9j3E9FM70D6RrPmcqWbuMuqwkJQQJ99BEACGhslBXJ3w3AAAIACOGFTs7"  # API key for prediction
-prediction_endpoint = "https://automobileprediction.cognitiveservices.azure.com/"  # Your prediction endpoint URL
-project_id = "c7bcc931-8118-4e40-9d39-89bf45f049d0"  # Your Custom Vision project ID
-published_name = "car_brand_model_v1"  # Your published iteration name
-project_name = "carBrandtraining"
+logger.info("Imported Libraries")
 
 
-# Authenticate the prediction client
-credentials = ApiKeyCredentials(in_headers={"Prediction-key": prediction_key})
-predictor = CustomVisionPredictionClient(endpoint=prediction_endpoint, credentials=credentials)
+# Credentials and project details
+prediction_key = "4EEgJnAYXK1YEoul9UwV2ZoKILN9j3E9FM70D6RrPmcqWbuMuqwkJQQJ99BEACGhslBXJ3w3AAAIACOGFTs7"
+prediction_endpoint = "https://automobileprediction.cognitiveservices.azure.com/"
+project_id = "c7bcc931-8118-4e40-9d39-89bf45f049d0"
+published_name = "car_brand_model_v1"
+logger.info("Credentials Saved")
+
+# Paths for the test images and for the output dir making a new one
+input_folder = "test"
+output_folder = "output"
+logger.info("Folder path specified for test data")
 
 
-# Function to predict a single image
-def predict_single_image(image_path):
-    with open(image_path, "rb") as image_data:
-        results = predictor.classify_image(project_id, published_name, image_data.read())
+# Ensure output directory exists
+os.makedirs(output_folder, exist_ok=True)
+logger.info("Created an empty folder 'output' !")
 
-    print(f"Predictions for image: {os.path.basename(image_path)}")
-    for prediction in results.predictions:
-        print(f"\t{prediction.tag_name}: {prediction.probability * 100:.2f}%")
+# Authenticate prediction client
+try:
+    logger.info("Authentication for Credentials Successfull  ({^.^}) /")
+    credentials = ApiKeyCredentials(in_headers={"Prediction-key": prediction_key})
+    predictor = CustomVisionPredictionClient(endpoint=prediction_endpoint, credentials=credentials)
+except Exception as e:
+    logger.error(e)
+    logger.info("Credential Authentication Failed ({-,-})")
+    raise CustomException(e)
 
-# Function to batch predict all images in a folder
-def predict_images_from_folder(folder_path):
-    for image_file in os.listdir(folder_path):
-        image_path = os.path.join(folder_path, image_file)
-        if os.path.isfile(image_path):
-            predict_single_image(image_path)
-            print("-" * 40)
+
+# Predict and copy with renamed output
+def predict_and_save(image_path):
+    try :
+        logger.info("Reading the Image file ")
+        with open(image_path, "rb") as image_data:
+            results = predictor.classify_image(project_id, published_name, image_data.read())
+    except Exception as e:
+        logger.error(e)
+
+    logger.info("Prep for the prediction")
+    # Get top prediction
+    top_prediction = max(results.predictions, key=lambda x: x.probability)
+    predicted_label = top_prediction.tag_name
+    confidence = top_prediction.probability * 100
+
+    # Print to console
+    print(f"Predicted: {predicted_label} ({confidence:.2f}%) - {os.path.basename(image_path)}")
+
+    # Create new filename and copy to output folder
+    original_name = os.path.basename(image_path)
+    name, ext = os.path.splitext(original_name)
+    new_filename = f"{name}__predictedAS__{predicted_label}{ext}"
+    new_path = os.path.join(output_folder, new_filename)
+
+    shutil.copy(image_path, new_path)
+
+
+# Batch process folder
+def predict_folder(folder_path):
+    for file in os.listdir(folder_path):
+        logger.info("Folder Path Verified")
+        img_path = os.path.join(folder_path, file)
+        if os.path.isfile(img_path):
+            logger.info(f"Image File Verified {file}")
+            predict_and_save(img_path)
+
+
 
 if __name__ == "__main__":
-    # Example usage for a single image
-    image_path = "test_images/car1.jpg"  # Change to your image path
-    predict_single_image(image_path)
-
-    # Example usage for batch prediction
-    # folder_path = "test_images"
-    # predict_images_from_folder(folder_path)
+    predict_folder(input_folder)
