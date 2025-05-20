@@ -9,10 +9,15 @@ import time  # Used to delay loop execution (sleep), useful for checking trainin
 
 
 # Saving credentials and model-related configuration
-endpoint = "https://automobiletraining.cognitiveservices.azure.com/"  # Azure endpoint for your Custom Vision resource
-api_key1_training = "FLaCIQL2b83tQjKSqmOsYpTl3pIFQUffh7ciVNIvuPUKQ35gII6MJQQJ99BEACGhslBXJ3w3AAAJACOGuNew"  # Training key for authentication
+endpoint = "https://automobiletraining.cognitiveservices.azure.com/"
+# Azure endpoint for your Custom Vision resource
+
+api_key1_training = "FLaCIQL2b83tQjKSqmOsYpTl3pIFQUffh7ciVNIvuPUKQ35gII6MJQQJ99BEACGhslBXJ3w3AAAJACOGuNew"
+# Training key for authentication
+
 resource_id_prediction = "/subscriptions/7e799c2d-1d5c-44ef-ba1f-9af09461a72c/resourceGroups/azureservices102/providers/Microsoft.CognitiveServices/accounts/automobilePrediction"
 # Azure resource ID for prediction endpoint
+
 project_name = "carBrandtraining"  # Name of the Custom Vision project to be created
 publish_iteration_name = "car_brand_model_v1"  # Name under which the trained model will be published
 
@@ -30,7 +35,8 @@ except Exception as e:
 # List all available domains in Azure Custom Vision (used for defining the type of problem e.g. classification)
 domains = trainer.get_domains()
 for domain in domains:
-    print(f"Name: {domain.name}, ID: {domain.id}, Type: {domain.type}, Exportable: {domain.exportable}")  # Print details for each domain
+    # Print details for each domain
+    print(f"Name: {domain.name}, ID: {domain.id}, Type: {domain.type}, Exportable: {domain.exportable}")
 
 
 # Select the "General (compact)" domain specifically suited for multiclass classification and allows model export

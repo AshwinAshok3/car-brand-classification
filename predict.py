@@ -36,6 +36,17 @@ except Exception as e:
     raise CustomException(e)
 
 
+
+# Batch process folder
+def predict_folder(folder_path):
+    for file in os.listdir(folder_path):
+        logger.info("Folder Path Verified")
+        img_path = os.path.join(folder_path, file)
+        if os.path.isfile(img_path):
+            logger.info(f"Image File Verified {file}")
+            predict_and_save(img_path)
+
+
 # Predict and copy with renamed output
 def predict_and_save(image_path):
     try :
@@ -61,18 +72,6 @@ def predict_and_save(image_path):
     new_path = os.path.join(output_folder, new_filename)
 
     shutil.copy(image_path, new_path)
-
-
-# Batch process folder
-def predict_folder(folder_path):
-    for file in os.listdir(folder_path):
-        logger.info("Folder Path Verified")
-        img_path = os.path.join(folder_path, file)
-        if os.path.isfile(img_path):
-            logger.info(f"Image File Verified {file}")
-            predict_and_save(img_path)
-
-
 
 if __name__ == "__main__":
     predict_folder(input_folder)
